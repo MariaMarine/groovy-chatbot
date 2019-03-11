@@ -1,0 +1,34 @@
+{
+    "name": "groovyfoxbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1",
+            "name": "development"
+        },
+        {
+            "type": "luis",
+            "appId": "2db4d39d-9f29-4b85-a3e9-01e8a950a011",
+            "authoringKey": "334a72782c4a4792b4d9f4882aee168e",
+            "id": "34",
+            "name": "groovyfoxbot",
+            "region": "westus",
+            "subscriptionKey": "dd21ef6a-4320-4252-b198-4fddd0ed6427",
+            "version": "0.1"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/2db4d39d-9f29-4b85-a3e9-01e8a950a011?verbose=true&timezoneOffset=-360&subscription-key=334a72782c4a4792b4d9f4882aee168e&q=",
+            "id": "30",
+            "name": "production"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\maria\\Documents\\Chatbot\\groovy-foxbot\\groovyfoxbot.bot",
+    "overrides": null
+}
