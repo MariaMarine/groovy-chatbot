@@ -1,5 +1,5 @@
 # Groovy Foxbot
-A test project for a chatbot that lists [Groovy Fox](https://groovyfox.bg/) shoe models and festival locations where they can be found.
+A test project for a chatbot that helps the user find [Groovy Fox](https://groovyfox.bg/) shoe models and festival locations where they can be found.
 
 Created with [Bot Framework](https://dev.botframework.com/), [Language Understanding using LUIS](https://www.luis.ai/) and [MongoDB](https://www.mongodb.com/).
 
